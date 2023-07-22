@@ -1,10 +1,8 @@
- }class Simple{  
-   public static void main(String args[]){  
-   System.out.println("Hiii Java");  
+  
  
-}ass Simple{
+class Simple{
 	   public static void main(String args[]){
-		      System.out.println("Hiii Java");
+		      System.out.println("welcome to class");
 
 	   }
 	   
