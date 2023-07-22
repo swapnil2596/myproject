@@ -2,7 +2,7 @@
  
 class Simple{
 	   public static void main(String args[]){
-		      System.out.println("welcome to class");
+		      System.out.println("welcome to fortune");
 
 	   }
 	   
